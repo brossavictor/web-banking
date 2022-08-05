@@ -23,7 +23,7 @@ createServer({
           title: 'second entry',
           type: 'withdraw',
           category: 'second entry',
-          amount: -100,
+          amount: 100,
           createdAt: new Date('1998-06-30 09:00:00'),
         },
       ],
